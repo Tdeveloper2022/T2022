@@ -1,0 +1,12 @@
+{
+    "name": "Space X",
+    "symbol": "SPX",
+    "description": "\"SpaceX Token\" represents a groundbreaking digital asset poised to revolutionize the world of decentralized finance. Inspired by Elon Musk's visionary SpaceX endeavors, this token embodies the spirit of innovation, exploration, and technological advancement. As humanity sets its sights on the stars, \"SpaceX Token\" aims to democratize access to the cosmos by fueling groundbreaking projects and initiatives in the blockchain space. Whether it's funding space exploration missions, supporting satellite deployments, or driving advancements in space technology, \"SpaceX Token\" serves as a catalyst for progress and transformation. Backed by a community of forward-thinking individuals united in their passion for space exploration and decentralized finance, \"SpaceX Token\" offers unprecedented opportunities for investors, developers, and enthusiasts alike. With its robust ecosystem and cutting-edge technology, \"SpaceX Token\" paves the way for a future where the possibilities of space are within reach for all. Join us on this cosmic journey as we harness the power of blockchain technology to propel humanity to new heights. Together, let's reach for the stars with \"SpaceX Token.\"",
+    "image": "https://ibb.co/nRKFbf4",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer spx"
+      }
+    ]
+  }
